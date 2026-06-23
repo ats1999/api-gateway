@@ -17,7 +17,7 @@ _______
 
 <!-- canva logo url -> https://www.canva.com/design/DAGZAdY1d9c/YCHWZRD78H5j0CAWaaF6gw/edit -->
 
-![1](https://github.com/user-attachments/assets/9348db35-f589-4dc4-9a03-24924d6d8f2d)
+<!-- ![1](https://github.com/user-attachments/assets/9348db35-f589-4dc4-9a03-24924d6d8f2d) --> 
 
 # Dakia: An API gateway tailored for modern distributed systems
 
@@ -80,6 +80,7 @@ Performance test: 10s @ http://0.0.0.0:80
 - See our [quick starting guide](/docs/quick_start.md)
 - See our [docs](/docs/README.md)
 
+<!-- 
 ## 📊 Progress Tracker
 
 [Dakia Configuration Sample](https://github.com/ats1999/dakia/blob/main/docs/config.sample.yaml)
@@ -134,3 +135,4 @@ Performance test: 10s @ http://0.0.0.0:80
 | Controller                                  | Allow to update dakia configuration in **_YAML/JSON_** format via REST endpoint without restarting the gateway                                                     | Done ✅ |
 | Rate Limiter                                | Token bucket rate limiter algorithm                                                                                                                                | Done ✅ |
 | Prometheus Integration                      | Expose server interval metric using prometheus (New TCP connection, Reused TCP connection, TCP connection failure, etc)                                            | Pending |
+--> 
